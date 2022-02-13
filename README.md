@@ -14,8 +14,6 @@
 <a href = 'https://twitter.com/bunul_bahadir'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.instagram.com/bunul_bahadir/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://www.github.com/bahadirbunul'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
- 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bahadirbunul.bahadirbunul)
   
 
 
